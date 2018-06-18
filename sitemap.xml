@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://sgoodliff.github.io/posts/movinghouse/</loc>
+    <lastmod>2018-06-18T22:11:24+01:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://sgoodliff.github.io/posts/gcpexam/</loc>
     <lastmod>2018-06-11T22:36:37+01:00</lastmod>
   </url>
@@ -14,13 +19,13 @@
   
   <url>
     <loc>https://sgoodliff.github.io/</loc>
-    <lastmod>2018-06-11T22:36:37+01:00</lastmod>
+    <lastmod>2018-06-18T22:11:24+01:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://sgoodliff.github.io/posts/</loc>
-    <lastmod>2018-06-11T22:36:37+01:00</lastmod>
+    <lastmod>2018-06-18T22:11:24+01:00</lastmod>
     <priority>0</priority>
   </url>
   

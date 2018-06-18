@@ -6,10 +6,19 @@
     <description>Recent content in Posts on My Infrequent Thoughts</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 11 Jun 2018 22:36:37 +0100</lastBuildDate>
+    <lastBuildDate>Mon, 18 Jun 2018 22:11:24 +0100</lastBuildDate>
     
 	<atom:link href="https://sgoodliff.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Movinghouse</title>
+      <link>https://sgoodliff.github.io/posts/movinghouse/</link>
+      <pubDate>Mon, 18 Jun 2018 22:11:24 +0100</pubDate>
+      
+      <guid>https://sgoodliff.github.io/posts/movinghouse/</guid>
+      <description>Lots of stuff to sort out, though will be great to be out of the rented flat into our familly home.</description>
+    </item>
     
     <item>
       <title>GCP Exam</title>
@@ -18,7 +27,7 @@
       
       <guid>https://sgoodliff.github.io/posts/gcpexam/</guid>
       <description>Provisonally passed, thought i hadn&amp;rsquo;t learnt enough before hand, but the 3 days training at the google academy followed by 2 days the following week seemed to be enough to get through
-I Haven&amp;rsquo;t done a exam for a long time so although im not convinced I Will spend a lot of time on GCP at work it was a interesting training course and I Will use it at some point</description>
+I haven&amp;rsquo;t done a exam for a long time so although im not convinced I Will spend a lot of time on GCP at work it was a interesting training course and I Will use it at some point</description>
     </item>
     
   </channel>
